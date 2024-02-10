@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+
+#anim {
+    width: 50%;
+    height: 25%;
+}
+
+.text {
+    margin-top: 20%;
+    font-size: 200%;
+}
+
+.buttons {
+    justify-content: space-between;
+    margin-top: 10%;
+}
+
+.p-text {
+    font-size: 250%;
+}
